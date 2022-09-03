@@ -1,0 +1,45 @@
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.exe
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.deps.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.runtimeconfig.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\refint\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER3 - Copia\ProjetoUC9\obj\Debug\net6.0\ref\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.exe
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.deps.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.runtimeconfig.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\refint\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER4\ProjetoUC9\obj\Debug\net6.0\ref\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.exe
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.deps.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.runtimeconfig.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\bin\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\refint\ProjetoUC9.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ProjetoUC9.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\SA2\ER5\ProjetoUC9\obj\Debug\net6.0\ref\ProjetoUC9.dll
