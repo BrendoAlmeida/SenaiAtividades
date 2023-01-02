@@ -1,0 +1,12 @@
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\senai\UC12\Aula1\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
